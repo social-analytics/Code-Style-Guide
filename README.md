@@ -20,3 +20,9 @@ Always use "" double quotes. However, sometimes you need to use both single quot
 -   Trim trailing white space on save.
 -   Set encoding to UTF-8.
 -   Add new line at end of files.
+
+
+
+Style Guide for CSS 
+
+http://cssguidelin.es/
