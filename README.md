@@ -5,7 +5,7 @@ http://codeguide.co/
 
 
 
-HTML, CSS, Javascript
+#HTML, CSS, Javascript
 
 indent size = 2 spaces 
 Number of characters per line = 100 
@@ -23,6 +23,8 @@ Always use "" double quotes. However, sometimes you need to use both single quot
 
 
 
-Style Guide for CSS 
-
+#Style Guide for CSS 
 http://cssguidelin.es/
+
+#Jquery Coding Standards & Best Practices
+http://lab.abhinayrathore.com/jquery-standards/
