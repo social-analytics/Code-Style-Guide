@@ -1,5 +1,14 @@
+
+might rename it to "Code Conventions", which consist of 2 parts: code style and programming practices.
+
+
 Code-Style-Guide
 ================
+- "Programs are meant to be read by humans and only incidentally for computers to execute" 
+- Donald Knuth, 
+The Art of Computer Programming 
+
+Maintainable Javascript --> https://www.youtube.com/watch?v=c-kav7Tf834
 
 http://codeguide.co/
 
